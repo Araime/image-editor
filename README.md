@@ -4,6 +4,10 @@
 
 https://github.com/Araime/image-editor/assets/82653875/20327679-a169-4ca2-9712-772c1cc72cd0
 
+https://github.com/Araime/image-editor/assets/82653875/20327679-a169-4ca2-9712-772c1cc72cd0
+
+
+
 ## Установка
 
 ### Скачать
