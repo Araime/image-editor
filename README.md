@@ -2,7 +2,7 @@
 
 Простой редактор изображений с несложным функционалом.
 
-https://github.com/Araime/image-editor/assets/82653875/41def9af-8ca7-4b80-bc77-0c917aea96a7
+![example](img1.jpg)
 
 ## Установка
 
